@@ -56,7 +56,7 @@ Follow these steps to set up the project locally on your machine.
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/prikol769/apple-clone.git
+git clone https://github.com/prikol769/app-clone.git
 cd iphone-doc
 ```
 
